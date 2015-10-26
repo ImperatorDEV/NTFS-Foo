@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int makefile(unsigned long i)
+void makefile(unsigned long i)
 {
     ostringstream Str;
     Str << i;
