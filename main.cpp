@@ -20,7 +20,7 @@ void makefile(unsigned long i)
 
 int main()
 {
-    std::cout << "Hello" << std::endl;
+    std::cout << "0" << std::endl;
     unsigned long a = 0;
     while (true) {
     makefile(a);
